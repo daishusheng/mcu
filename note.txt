@@ -1,1 +1,18 @@
-3
+1-2 stm32简介
+
+片上资源外设
+NVIC  嵌套向量中断控制器     CAN can通信
+SysTick  系统滴答计时器      usb  usb通信
+rcc复位和时钟控制            rtc  实时时钟
+gpio通用io口                crc  crc校验
+afio 复用io口               pwr电源控制
+exti外部中断                bkp备份寄存器
+tim定时器                   iwdg独立看门狗
+adc模数转换器               wwdg窗口看门狗
+dma直接内存访问             dac数模转换器
+usart同步/异步串口通信       sdio sd卡接口
+i2c i2c通信              fsmc可变静态存储控制器
+spi spi通信              usb otg usb主机接口
+
+
+
